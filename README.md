@@ -111,6 +111,7 @@ Tool | Description
 [Unity Studio / AssetStudio](https://github.com/RaduMC/AssetStudio) <br /> ![No Longer Maintained](https://img.shields.io/badge/No%20Longer%20Maintained-red.svg) | AssetStudio is an independent tool for exploring, extracting and exporting assets.
 [Unity Assets Explorer](https://zenhax.com/viewtopic.php?t=36) <br /> ![No Longer Maintained](https://img.shields.io/badge/No%20Longer%20Maintained-red.svg) | Unity Assets Explorer is used to view the contents of Assets-files (Unity 3D engine). Allows you to: Extract all files, extract one file (from context menu), convert tex-files into a picture format DDS (on extraction), import the changed DDS-images to the archive.
 
+
 > **Do not use UnityEX**, it is most likely a virus.
 
 ### DDS files :
@@ -125,6 +126,7 @@ Tool | Tutorial
 [Intel® Graphics Performance Analyzers](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) | Improve your game's performance by quickly identifying problem areas. <br /> [Tutorial](https://forum.xentax.com/viewtopic.php?t=12262) on how to use the Intel Graphics Analyzers to extract graphics.
 [Gimp Plugin](https://code.google.com/archive/p/gimp-dds/downloads) | This is a plugin for GIMP version 2.8.x. It allows you to load and save images in the Direct Draw Surface (DDS) format.
 [3D Ripper DX](http://www.deep-shadows.com/hax/3DRipperDX.htm) | This soft doesn't support 64 bits binaries.
+[Paint.net](https://getpaint.net/download.html) _[with DDS FileType Plus Plugin](https://forums.getpaint.net/topic/111731-dds-filetype-plus-9-5-2024/)_ | This is a plugin for PaintDotNet. It allows you to load and save images in the Direct Draw Surface (DDS) format.
 
 
 ## Hacking memory
